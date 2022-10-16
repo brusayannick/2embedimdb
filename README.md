@@ -1,5 +1,5 @@
 # 2embedimdb
-A simple Chrome Extension to open movies from imdb site on 2embed sites.
+A simple Chrome Extension to stream full movies from imdb site on 2embed sites.
 
 Steps:
 1. Import the Extension to chrome as shown in: https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked
